@@ -1,1 +1,2 @@
-console.log("Iniciando o Projeto")
+let nome = "felipe";
+console.log(nome);
